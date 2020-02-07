@@ -1,0 +1,8 @@
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/workspace.xml
+/stock-portfolio.iml
+/target/classes/META-INF/stock-portfolio.kotlin_module
+/target/classes/stock/Portfolio.class
+/target/classes/stock/Share.class
+/target/test-classes/stock/StockShould.class
